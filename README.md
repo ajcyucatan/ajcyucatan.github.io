@@ -5,7 +5,7 @@
 [![GitHub repo size](https://img.shields.io/github/repo-size/ajcyucatan/ajcyucatan.github.io?style=popout-square)](https://github.com/ajcyucatan/ajcyucatan.github.io.git)
 [![GitHub issues](https://img.shields.io/github/issues/ajcyucatan/ajcyucatan.github.io?style=popout-square)](https://github.com/ajcyucatan/ajcyucatan.github.io/issues)
 
-The organization website at https://ajcyucatan.org. It is aimed to be simple, minimalist and visually friendly.
+La página web en https://ajcyucatan.org. Consta de ser simple, minimalista y amigable visualmente.
 
 
 ### License
