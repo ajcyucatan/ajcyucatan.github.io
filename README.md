@@ -1,15 +1,15 @@
 # ajcyucatan.github.io
 
-[![GitHub license](https://img.shields.io/github/license/ajcyucatan/ajcyucatan.github.io?style=popout-square)](https://github.com/ajcyucatan/ajcyucatan.github.io/blob/master/LICENSE)
-[![GitHub last commit](https://img.shields.io/github/last-commit/ajcyucatan/ajcyucatan.github.io?style=popout-square)](https://github.com/ajcyucatan/ajcyucatan.github.io/commits/master)
-[![GitHub repo size](https://img.shields.io/github/repo-size/ajcyucatan/ajcyucatan.github.io?style=popout-square)](https://github.com/ajcyucatan/ajcyucatan.github.io.git)
-[![GitHub issues](https://img.shields.io/github/issues/ajcyucatan/ajcyucatan.github.io?style=popout-square)](https://github.com/ajcyucatan/ajcyucatan.github.io/issues)
+[![License](https://img.shields.io/github/license/ajcyucatan/ajcyucatan.github.io?style=popout-square)](https://github.com/ajcyucatan/ajcyucatan.github.io/blob/master/LICENSE "License")
+[![Last Commit](https://img.shields.io/github/last-commit/ajcyucatan/ajcyucatan.github.io?style=popout-square)](https://github.com/ajcyucatan/ajcyucatan.github.io/commits/master "Last Commit")
+[![Repo Size](https://img.shields.io/github/repo-size/ajcyucatan/ajcyucatan.github.io?style=popout-square)](https://github.com/ajcyucatan/ajcyucatan.github.io.git "Repo Size")
+[![Issues](https://img.shields.io/github/issues/ajcyucatan/ajcyucatan.github.io?style=popout-square)](https://github.com/ajcyucatan/ajcyucatan.github.io/issues "Issues")
 
 La página web en https://ajcyucatan.org. Consta de ser simple, minimalista y amigable visualmente.
 
 
-### License
+## License
 
-[![CC](http://forthebadge.com/images/badges/cc-by.svg)](https://creativecommons.org/licenses/by/4.0 "CC BY 4.0")
+[![CC](http://forthebadge.com/images/badges/cc-nc-sa.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0 "CC BY-NC-SA 4.0")
 
-Created by Asociación Juvenil de Ciencia Yucatán, 2020. All content contained in this repository is licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0 "CC BY 4.0"). The code is free and open source, released under [The MIT License](https://mit-license.org "The MIT License").
+The content in this repository is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0), and the code is free and open source, released under the terms of [The MIT License](https://mit-license.org).
