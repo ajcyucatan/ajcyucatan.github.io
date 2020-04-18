@@ -4,7 +4,7 @@
 [![Website Status](https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Fajcyucatan.org)](https://ajcyucatan.org "Website Status")
 [![Issues](https://img.shields.io/github/issues/ajcyucatan/ajcyucatan.github.io?style=popout-square)](https://github.com/ajcyucatan/ajcyucatan.github.io/issues "Issues")
 
-La página web en https://ajcyucatan.org. Consta de ser simple, minimalista y amigable visualmente.
+La página web oficial alojada en https://ajcyucatan.org, desarrollada con [GatsbyJs](https://www.gatsbyjs.org) y `npm-build`. Busca ser simple, minimalista y amigable visualmente.
 
 
 ## Licencia
